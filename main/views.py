@@ -5,7 +5,7 @@ from config import FREEZER_BASE_URL
 
 @app.route('/')
 def index():
-    page_title = 'VPR App Template'
+    page_title = 'You Do The Pledge Drive'
     page_url = FREEZER_BASE_URL.rstrip('/') + request.path
 
     social = {
