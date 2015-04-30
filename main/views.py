@@ -13,7 +13,7 @@ def index():
         'subtitle': "",
         'img': "",
         'description': "",
-        'twitter_text': "",
+        'twitter_text': "I'm recording a pledge drive pitch for VPR!",
         'creator': "",
         'twitter_hashtag': ""
     }
