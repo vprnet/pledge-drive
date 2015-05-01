@@ -11,7 +11,7 @@ def index():
     social = {
         'title': "",
         'subtitle': "",
-        'img': "",
+        'img': "https://s3.amazonaws.com/www.vpr.net/sandbox/app/static/img/vpr-glue.gif",
         'description': "I'm recording a pledge drive pitch for VPR!",
         'twitter_text': "I'm recording a pledge drive pitch for VPR!",
         'creator': "",
