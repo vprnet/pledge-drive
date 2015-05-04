@@ -9,11 +9,11 @@ def index():
     page_url = FREEZER_BASE_URL.rstrip('/') + request.path
 
     social = {
-        'title': "Give Us Your Best Pitch",
+        'title': "Give Us Your Best Pitch!",
         'subtitle': "",
         'img': "http://www.vpr.net/apps/dorothys-list/static/img/vpr-logo.png",
-        'description': "I'm recording a pitch for VPR!",
-        'twitter_text': "I'm recording a pitch for VPR!",
+        'description': "Give us your best pitch!",
+        'twitter_text': "Give us your best pitch!",
         'twitter_hashtag': ""
     }
 

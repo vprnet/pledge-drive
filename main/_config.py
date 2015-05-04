@@ -8,7 +8,7 @@ DEBUG = True
 AWS_KEY = ''
 AWS_SECRET_KEY = ''
 AWS_BUCKET = 'www.vpr.net'
-AWS_DIRECTORY = 'apps/members/listener-pitches/'
+AWS_DIRECTORY = 'sandbox/app/'
 
 NPR_API_KEY = ''
 
