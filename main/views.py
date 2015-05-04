@@ -11,7 +11,7 @@ def index():
     social = {
         'title': "Give Us Your Best Pitch!",
         'subtitle': "",
-        'img': "http://www.vpr.net/apps/dorothys-list/static/img/vpr-logo.png",
+        'img': "http://www.vpr.net/apps/dorothys-list/static/img/facebook-share-logo.jpg",
         'description': "Give us your best pitch!",
         'twitter_text': "Give us your best pitch!",
         'twitter_hashtag': ""
