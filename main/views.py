@@ -5,11 +5,11 @@ from config import FREEZER_BASE_URL
 
 @app.route('/')
 def index():
-    page_title = 'You Do The Pledge Drive'
+    page_title = 'Give Us Your Best Pitch'
     page_url = FREEZER_BASE_URL.rstrip('/') + request.path
 
     social = {
-        'title': "",
+        'title': "Give Us Your Best Pitch",
         'subtitle': "",
         'img': "http://www.vpr.net/apps/dorothys-list/static/img/vpr-logo.png",
         'description': "I'm recording a pitch for VPR!",

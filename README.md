@@ -1,6 +1,6 @@
-# Pledge Drive Page
+# Give Us Your Best Pitch
 
-This is a simple landing page asking listeners to submit their own 30 second pledge drive pitches.
+This is a simple landing page asking listeners to submit their own 30 second pitches about why they love VPR.
 
 ##Copyright and License
 
