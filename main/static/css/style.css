@@ -1068,6 +1068,7 @@ pre code {
 
 /* line 770, ../dev/sass/_bootstrap.scss */
 .col-xs-12 {
+  text-align: center;
   width: 100%;
 }
 
@@ -1344,6 +1345,7 @@ pre code {
 
   /* line 936, ../dev/sass/_bootstrap.scss */
   .col-sm-9 {
+    text-align: center;
     width: 75%;
   }
 
@@ -1886,6 +1888,7 @@ pre code {
 
   /* line 1264, ../dev/sass/_bootstrap.scss */
   .col-lg-5 {
+    text-align: center;
     width: 41.66666667%;
   }
 
